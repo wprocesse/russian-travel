@@ -1,0 +1,145 @@
+@import url(./__link/cover__link.css);
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+
+.cover {
+  max-width: 1184px; 
+  margin-left: auto;
+  margin-right: auto;  
+  margin-top: 92px;
+  margin-bottom: 0;    
+  background-image: url(../../images/dmitrii-vaccinium-22833-unsplash.jpg);  
+  background-repeat: no-repeat;    
+  background-size: cover;  
+  position: relative; 
+  z-index: 1;   
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    max-width: 1024px;   
+  }  
+}  
+
+@media screen and (max-width: 984px) {
+  .cover {
+    max-width: 984px;   
+  }  
+}
+
+@media screen and (max-width: 932px) {
+  .cover {
+    max-width: 932px;   
+  }  
+} 
+
+@media screen and (max-width: 900px) {
+  .cover {
+    max-width: 900px;   
+  }  
+}  
+
+@media screen and (max-width: 852px) {
+  .cover {
+    max-width: 852px;   
+  }  
+} 
+
+@media screen and (max-width: 780px) {
+  .cover {
+    max-width: 780px;   
+  }  
+} 
+
+@media screen and (max-width: 730px) {
+  .cover {
+    max-width: 730px;   
+  }  
+} 
+
+@media screen and (max-width: 768px) {
+  .cover {
+    max-width: 768px;   
+    margin-top: 88px;
+  }  
+} 
+
+@media screen and (max-width: 700px) {
+  .cover {
+    max-width: 700px;   
+  }  
+} 
+
+@media screen and (max-width: 665px) {
+  .cover {
+    max-width: 665px;   
+  }  
+} 
+
+@media screen and (max-width: 630px) {
+  .cover {
+    max-width: 630px;   
+  }  
+} 
+
+
+@media screen and (max-width: 600px) {
+  .cover {
+    max-width: 600px;      
+  }  
+} 
+
+@media screen and (max-width: 565px) {
+  .cover {
+    max-width: 565px;      
+  }  
+} 
+
+@media screen and (max-width: 535px) {
+  .cover {
+    max-width: 530px;      
+  }  
+} 
+
+@media screen and (max-width: 500px) {
+  .cover {
+    max-width: 500px;      
+  }  
+} 
+
+@media screen and (max-width: 460px) {
+  .cover {
+    max-width: 460px; 
+    margin-top: 64px;     
+  }  
+} 
+
+@media screen and (max-width: 425px) {
+  .cover {
+    max-width: 425px;     
+  }  
+} 
+
+@media screen and (max-width: 400px) {
+  .cover {
+    max-width: 400px;     
+  }  
+} 
+
+@media screen and (max-width: 375px) {
+  .cover {       
+    max-width: 375px;       
+  }
+} 
+
+@media screen and (max-width: 340px) {
+  .cover {
+    max-width: 340px;  
+  }  
+} 
+
+@media screen and (max-width: 320px) {
+  .cover {
+    max-width: 320px;  
+  }  
+} 

@@ -1,0 +1,64 @@
+.intro__list {  
+  max-width: 690px;
+  padding-left: 0;
+  margin-top: 32px;  
+  margin-bottom: 0;  
+  list-style: none; 
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__list {       
+    max-width: 720px;         
+  }
+}
+
+@media screen and (max-width: 565px) {
+  .intro__list {       
+    max-width: 533px;     
+  }
+} 
+
+@media screen and (max-width: 530px) {
+  .intro__list {       
+    max-width: 498px;     
+  }
+} 
+
+@media screen and (max-width: 500px) {
+  .intro__list {       
+    max-width: 468px;     
+  }
+} 
+
+@media screen and (max-width: 425px) {
+  .intro__list {       
+    max-width: 393px;       
+  }
+} 
+
+@media screen and (max-width: 400px) {
+  .intro__list {       
+    max-width: 368px;       
+  }
+} 
+
+@media screen and (max-width: 375px) {
+  .intro__list {    
+    max-width: 343px;  
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .intro__list {       
+    max-width: 308px;       
+  }
+} 
+
+@media screen and (max-width: 320px) {
+  .intro__list {       
+    max-width: 288px;       
+  }
+} 

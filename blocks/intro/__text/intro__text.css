@@ -1,0 +1,101 @@
+.intro__text {
+  max-width: 690px;    
+  margin-left: 0;
+  margin-top: 40px;  
+  margin-bottom: 0;  
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+}  
+
+@media screen and (max-width: 790px) {
+  .intro__text {       
+    max-width: 742px;  
+    margin-left: auto;   
+    margin-right: auto;   
+  }
+} 
+
+@media screen and (max-width: 768px) {
+  .intro__text {       
+    max-width: 720px;       
+  }
+} 
+
+@media screen and (max-width: 720px) {
+  .intro__text {       
+    max-width: 672px;       
+  }
+} 
+
+@media screen and (max-width: 700px) {
+  .intro__text {       
+    max-width: 652px;       
+  }
+} 
+
+@media screen and (max-width: 630px) {
+  .intro__text {
+    max-width: 582px;    
+  }
+} 
+  
+@media screen and (max-width: 600px) {
+  .intro__text {
+    max-width: 552px;    
+  }
+}   
+
+@media screen and (max-width: 565px) {
+  .intro__text {
+    max-width: 533px;    
+  }
+}  
+
+@media screen and (max-width: 530px) {
+  .intro__text {
+    max-width: 498px;    
+  }
+}  
+
+@media screen and (max-width: 500px) {
+  .intro__text {
+    max-width: 468px;    
+  }
+}  
+
+@media screen and (max-width: 460px) {
+  .intro__text {       
+    max-width: 428px;      
+  }
+} 
+
+@media screen and (max-width: 425px) {
+  .intro__text {       
+    max-width: 393px;      
+  }
+} 
+
+@media screen and (max-width: 400px) {
+  .intro__text {       
+    max-width: 368px;      
+  }
+} 
+
+@media screen and (max-width: 375px) {
+  .intro__text {    
+    max-width: 343px;  
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .intro__text {       
+    max-width: 308px;      
+  }
+} 
+
+@media screen and (max-width: 320px) {
+  .intro__text {       
+    max-width: 288px;      
+  }
+} 

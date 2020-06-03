@@ -1,0 +1,36 @@
+.place__url-heading {
+  max-width: 456px;  
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;  
+  letter-spacing: 0.2em;
+  color: #AAAAAA; 
+  grid-column: 2;
+  grid-row: 1;
+}
+  
+@media screen and (max-width: 768px) {
+  .place__url-heading {
+    max-width: 352px;
+   }
+}
+
+@media screen and (max-width: 500px) {
+  .place__url-heading {
+    max-width: 230px;
+   }
+}
+
+@media screen and (max-width: 460px) {
+  .place__url-heading {
+    visibility: hidden;
+    display: none;    
+   }
+}
+
+@media screen and (max-width: 425px) {
+  .place__url-heading {
+    visibility: hidden;
+    display: none;    
+   }
+}

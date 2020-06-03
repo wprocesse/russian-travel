@@ -1,0 +1,139 @@
+.places { 
+    max-width: 984px;   
+    margin-left: auto;  
+    margin-right: auto;     
+  }
+
+@media screen and (max-width: 1024px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .places {
+    max-width: 936px;
+  }
+} 
+
+@media screen and (max-width: 932px) {
+  .places {
+    max-width: 884px;
+  }
+} 
+
+@media screen and (max-width: 900px) {
+  .places {
+    max-width: 852px;
+  }
+}   
+
+@media screen and (max-width: 852px) {
+  .places {
+    max-width: 804px;
+  }
+}   
+
+@media screen and (max-width: 790px) {
+  .places {
+    max-width: 742px;
+  }
+}   
+
+@media screen and (max-width: 780px) {
+  .places {
+    max-width: 732px;
+  }
+}  
+
+@media screen and (max-width: 768px) {
+  .places {
+    max-width: 720px;
+    margin-top: 88px;
+  }
+} 
+
+@media screen and (max-width: 730px) {
+  .places {
+    max-width: 682px;    
+  }
+} 
+
+@media screen and (max-width: 700px) {
+  .places {
+    max-width: 652px;    
+  }
+} 
+
+@media screen and (max-width: 665px) {
+  .places {
+    max-width: 617px;    
+  }
+} 
+
+@media screen and (max-width: 630px) {
+  .places {
+    max-width: 598px;    
+  }
+} 
+
+@media screen and (max-width: 600px) {
+  .places {
+    max-width: 552px;
+    margin-top: 64px;
+  }
+} 
+
+@media screen and (max-width: 565px) {
+  .places {
+    max-width: 533px;    
+  }
+} 
+
+@media screen and (max-width: 535px) {
+  .places {
+    max-width: 498px;    
+  }
+} 
+
+@media screen and (max-width: 500px) {
+  .places {
+    max-width: 468px;    
+  }
+} 
+
+@media screen and (max-width: 460px) {
+  .places {
+    max-width: 460px;    
+  }
+} 
+
+@media screen and (max-width: 425px) {
+  .places {
+    max-width: 425px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .places {
+    max-width: 400px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .places {       
+    max-width: 375px;       
+  }
+} 
+
+@media screen and (max-width: 340px) {
+  .places {
+    max-width: 340px;   
+  }
+} 
+
+@media screen and (max-width: 320px) {
+  .places {
+    max-width: 320px;   
+  }
+} 

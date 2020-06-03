@@ -1,0 +1,38 @@
+.place__link {
+  max-width: 456px;  
+  text-decoration-line: underline; 
+  color: #ffffff; 
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;  
+}
+
+.place__link:hover {
+  opacity: .3;
+  transition: .3s, ease-in, linear;
+  text-decoration-line: underline;
+}
+
+.place__link:active {  
+  font-weight: bold;
+  text-decoration-line: underline;
+}
+
+@media screen and (max-width: 768px) {
+  .place__link {
+    max-width: 352px;
+   }
+}
+
+@media screen and (max-width: 500px) {
+  .place__link {
+    max-width: 230px;
+   }
+}
+
+@media screen and (max-width: 460px) {
+  .place__link {    
+    visibility: hidden;
+    display: none;    
+   }
+}

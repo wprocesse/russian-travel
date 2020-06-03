@@ -1,0 +1,171 @@
+@import url(./__item/photo-grid__item.css);
+
+.photo-grid {
+  max-width: 1184px;  
+  padding-top: 92px;
+  margin-left: auto;  
+  margin-right: auto;
+  display: grid; 
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+  grid-template-rows: repeat(auto-fit, content);
+  grid-gap: 16px 16px;
+  justify-items: center;      
+}
+
+@media screen and (max-width: 1140px) {
+  .photo-grid {       
+    max-width: 1044px;     
+  }
+}  
+
+@media screen and (max-width: 1084px) {
+  .photo-grid {       
+    max-width: 988px;     
+  }
+}  
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {       
+    max-width: 928px;   
+    grid-gap: 14px 14px;
+  }
+}  
+
+@media screen and (max-width: 984px) {
+  .photo-grid {       
+    max-width: 936px;     
+  }
+}  
+
+@media screen and (max-width: 932px) {
+  .photo-grid {       
+    max-width: 884px;     
+  }
+}  
+
+@media screen and (max-width: 900px) {
+  .photo-grid {       
+    max-width: 852px;       
+  }
+}  
+
+@media screen and (max-width: 852px) {
+  .photo-grid {       
+    max-width: 804px;       
+  }
+}  
+
+@media screen and (max-width: 790px) {
+  .photo-grid {       
+    max-width: 742px;       
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .photo-grid {       
+    max-width: 732px;       
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .photo-grid {       
+    max-width: 720px;  
+    grid-gap: 16px 16px;
+  }
+}  
+
+@media screen and (max-width: 730px) {
+  .photo-grid {       
+    max-width: 682px;       
+  }
+}  
+
+@media screen and (max-width: 700px) {
+  .photo-grid {       
+    max-width: 652px;       
+  }
+} 
+
+@media screen and (max-width: 665px) {
+  .photo-grid {       
+    max-width: 617px;       
+  }
+} 
+
+@media screen and (max-width: 630px) {
+  .photo-grid {       
+    max-width: 598px;       
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .photo-grid {       
+    max-width: 552px;
+    padding-top: 64px;        
+    grid-gap: 14px 14px;
+  }
+}  
+
+@media screen and (max-width: 565px) {
+  .photo-grid {       
+    max-width: 533px;    
+  }
+} 
+
+@media screen and (max-width: 550px) {
+  .photo-grid {       
+    max-width: 518px;    
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    grid-gap: 14px;
+  }
+}  
+
+@media screen and (max-width: 535px) {
+  .photo-grid {       
+    max-width: 498px;      
+  }
+}  
+
+@media screen and (max-width: 500px) {
+  .photo-grid {       
+    max-width: 468px;      
+  }
+}  
+
+@media screen and (max-width: 460px) {
+  .photo-grid {       
+    max-width: 428px;      
+  }
+}  
+
+@media screen and (max-width: 425px) {
+  .photo-grid {       
+    max-width: 393px;    
+    grid-gap: 12px;
+  }
+}  
+
+@media screen and (max-width: 400px) {
+  .photo-grid {       
+    max-width: 368px;   
+  }
+} 
+
+@media screen and (max-width: 375px) {
+  .photo-grid {       
+    max-width: 343px;       
+  }
+} 
+
+@media screen and (max-width: 340px) {
+  .photo-grid {       
+    max-width: 308px;   
+  }
+} 
+
+@media screen and (max-width: 320px) {
+  .photo-grid {       
+    max-width: 288px;   
+  }
+} 

@@ -1,0 +1,160 @@
+@import url(./__list/intro__list.css);
+@import url(./__span-accent/intro__span-accent.css);
+@import url(./__text/intro__text.css);
+@import url(./__title/intro-title.css);
+
+.intro {
+  max-width: 984px; 
+  padding-top: 92px;  
+  margin-top: 0;
+  margin-bottom: 0;    
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;  
+  grid-area: intro;  
+}
+ 
+@media screen and (max-width: 1024px) {
+  .intro {       
+    max-width: 928px;
+  }
+}   
+
+@media screen and (max-width: 984px) {
+  .intro {       
+    max-width: 936px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .intro {       
+    max-width: 902px;
+  }
+}
+
+@media screen and (max-width: 932px) {
+  .intro {       
+    max-width: 884px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .intro {       
+    max-width: 852px;
+  }
+}
+
+@media screen and (max-width: 852px) {
+  .intro {       
+    max-width: 804px;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .intro {       
+    max-width: 742px;
+  }
+}   
+
+@media screen and (max-width: 780px) {
+  .intro {       
+    max-width: 732px;
+  }
+}  
+
+@media screen and (max-width: 768px) {
+  .intro { 
+    max-width: 720px;      
+    padding-top: 88px;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+} 
+
+@media screen and (max-width: 730px) {
+  .intro {       
+    max-width: 682px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .intro {       
+    max-width: 652px;
+  }
+}
+
+@media screen and (max-width: 665px) {
+  .intro {       
+    max-width: 617px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .intro {       
+    max-width: 598px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .intro { 
+    max-width: 552px;      
+    padding-top: 64px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+} 
+
+@media screen and (max-width: 565px) {
+  .intro { 
+    max-width: 533px;       
+  }
+} 
+
+@media screen and (max-width: 535px) {
+  .intro { 
+    max-width: 498px;       
+  }
+} 
+
+@media screen and (max-width: 500px) {
+  .intro { 
+    max-width: 468px;       
+  }
+} 
+
+@media screen and (max-width: 460px) {
+  .intro { 
+    max-width: 428px;       
+  }
+} 
+
+@media screen and (max-width: 425px) {
+  .intro { 
+    max-width: 393px;       
+  }
+} 
+
+@media screen and (max-width: 400px) {
+  .intro { 
+    max-width: 368px;       
+  }
+} 
+
+@media screen and (max-width: 375px) {
+  .intro {    
+    max-width: 343px;  
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .intro {    
+    max-width: 308px;  
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro { 
+    max-width: 288px;       
+  }
+} 

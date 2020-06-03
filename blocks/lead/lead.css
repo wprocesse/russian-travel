@@ -1,0 +1,140 @@
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__image/lead__image.css);
+@import url(./__caption/lead__caption.css);
+
+.lead {
+  max-width: 984px;  
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center; 
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {    
+    max-width: 928px;    
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .lead {    
+    max-width: 936px;    
+  }
+}
+
+@media screen and (max-width: 932px) {
+  .lead {    
+    max-width: 884px;    
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .lead {    
+    max-width: 852px;    
+  }
+}
+
+@media screen and (max-width: 852px) {
+  .lead {    
+    max-width: 804px;    
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .lead {    
+    max-width: 742px;    
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .lead {    
+    max-width: 732px;    
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {    
+    max-width: 768px;    
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .lead {    
+    max-width: 720px;    
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .lead {    
+    max-width: 700px;    
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .lead {    
+    max-width: 650px;  
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .lead {    
+    max-width: 630px;  
+  }
+}
+
+@media screen and (max-width: 565px) {
+  .lead {    
+    max-width: 565px;  
+  }
+}
+
+@media screen and (max-width: 535px) {
+  .lead {    
+    max-width: 530px;  
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .lead {    
+    max-width: 500px;  
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .lead {    
+    max-width: 460px;  
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .lead {    
+    max-width: 425px;  
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .lead {    
+    max-width: 400px;  
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .lead {    
+    max-width: 375px;  
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .lead {    
+    max-width: 340px;  
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead {    
+     max-width: 320px;
+  }
+}

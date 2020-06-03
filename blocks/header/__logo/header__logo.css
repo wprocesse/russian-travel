@@ -1,0 +1,27 @@
+.header__logo {  
+  margin-left: 0; 
+  width: 176px; 
+  height: 52px;   
+  justify-self: start; 
+  grid-column: 1/9; 
+  grid-row: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .header__logo {
+    grid-column: 1/6;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .header__logo {
+    grid-column: 1/5;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .header__logo {   
+    width: 142px;
+    height: 42px;
+  }
+}

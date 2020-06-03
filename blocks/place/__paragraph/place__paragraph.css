@@ -1,0 +1,138 @@
+.place__paragraph {
+  max-width: 484px;  
+  margin-top: 0;
+  margin-bottom: 24px;  
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  grid-column: 2;
+  grid-row: 2;    
+} 
+
+.place__paragraph:nth-of-type(2) {  
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__paragraph {
+    max-width: 456px;
+  }
+}   
+
+@media screen and (max-width: 852px) {
+  .place__paragraph {
+    max-width: 386px;    
+  } 
+} 
+
+@media screen and (max-width: 780px) {
+  .place__paragraph {
+    max-width: 350px;    
+  } 
+} 
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    max-width: 352px;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 24px;
+  }
+  .place__paragraph:nth-of-type(2) {
+    margin-top: 0;   
+  }
+  .place__paragraph:last-of-type {  
+    margin-bottom: 0;
+  }
+}   
+
+@media screen and (max-width: 730px) {
+  .place__paragraph {
+    max-width: 325px;    
+  } 
+}  
+
+@media screen and (max-width: 700px) {
+  .place__paragraph {
+    max-width: 310px;    
+  } 
+}  
+
+@media screen and (max-width: 665px) {
+  .place__paragraph {
+    max-width: 300px;    
+  } 
+}  
+
+@media screen and (max-width: 630px) {
+  .place__paragraph {
+    max-width: 285px;    
+  } 
+}
+
+@media screen and (max-width: 600px) {
+  .place__paragraph {
+    max-width: 262px;    
+  } 
+}   
+
+@media screen and (max-width: 565px) {
+  .place__paragraph {
+    max-width: 253px;    
+  } 
+}   
+
+@media screen and (max-width: 535px) {
+  .place__paragraph {
+    max-width: 235px;    
+  } 
+}   
+
+@media screen and (max-width: 500px) {
+  .place__paragraph {
+    max-width: 230px;    
+  } 
+}  
+
+@media screen and (max-width: 460px) {
+  .place__paragraph {
+    max-width: 428px;  
+    margin-top: 32px; 
+    font-size: 16px;
+    line-height: 26px;   
+    grid-column: 1;
+    grid-row: 3;
+    margin-left: 16px;
+    margin-right: 16px;  
+  } 
+}  
+
+@media screen and (max-width: 425px) {
+  .place__paragraph {
+    max-width: 393px;       
+  }   
+}
+
+@media screen and (max-width: 400px) {
+  .place__paragraph {       
+    max-width: 368px;       
+  }
+} 
+
+@media screen and (max-width: 375px) {
+  .place__paragraph {       
+    max-width: 343px;       
+  }
+} 
+
+@media all and (max-width: 340px) {
+  .place__paragraph {
+    max-width: 308px;   
+  }
+}
+
+@media all and (max-width: 320px) {
+  .place__paragraph {
+    max-width: 288px;   
+  }
+}
