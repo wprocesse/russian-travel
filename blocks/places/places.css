@@ -1,8 +1,10 @@
 .places { 
-    max-width: 984px;   
-    margin-left: auto;  
-    margin-right: auto;     
-  }
+  max-width: 984px;   
+  margin-left: auto;  
+  margin-right: auto;   
+  margin-top: 12px;
+  margin-bottom: 0;
+}
 
 @media screen and (max-width: 1024px) {
   .places {
@@ -49,7 +51,7 @@
 @media screen and (max-width: 768px) {
   .places {
     max-width: 720px;
-    margin-top: 88px;
+    margin-top: 16px;
   }
 } 
 
@@ -79,8 +81,7 @@
 
 @media screen and (max-width: 600px) {
   .places {
-    max-width: 552px;
-    margin-top: 64px;
+    max-width: 552px;   
   }
 } 
 
@@ -104,7 +105,7 @@
 
 @media screen and (max-width: 460px) {
   .places {
-    max-width: 460px;    
+    max-width: 460px;         
   }
 } 
 
@@ -122,13 +123,13 @@
 
 @media screen and (max-width: 375px) {
   .places {       
-    max-width: 375px;       
+    max-width: 375px;            
   }
 } 
 
 @media screen and (max-width: 340px) {
   .places {
-    max-width: 340px;   
+    max-width: 340px;         
   }
 } 
 
