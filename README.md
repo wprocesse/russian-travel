@@ -1,7 +1,7 @@
 * Путешествия по России
 
 ** ССылка на проект:
-https://alena-danilionak.github.io/russian-travel
+https://wprocesse.github.io/russian-travel/
 
 
 ** Описание проекта
