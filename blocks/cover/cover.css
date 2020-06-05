@@ -10,8 +10,7 @@
   margin-bottom: 0;    
   background-image: url(../../images/dmitrii-vaccinium-22833-unsplash.jpg);  
   background-repeat: no-repeat;    
-  background-size: cover;  
-  position: relative; 
+  background-size: cover;    
   z-index: 1;   
 }
 
